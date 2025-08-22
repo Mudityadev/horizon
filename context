@@ -1,0 +1,57 @@
+# Project Context: Horizon Infra & Energy Landing Page
+
+## Client Information
+- **Business Name:** Horizon Infra & Energy  
+- **Owner:** Hemant Raghav  
+- **Phone:** +91 7000608560  
+
+## Project Goal
+Build a **modern, dark-theme, responsive landing page** for Horizon Infra & Energy that works seamlessly on **mobile and web**.
+
+## Requirements
+1. **Responsive Design**
+   - Should adapt perfectly to **mobile, tablet, and desktop**.
+   - Prioritize **clean UI + fast loading**.
+
+2. **Theme**
+   - **Dark theme** with professional, futuristic look.
+   - Use brand colors: deep navy/black background with accents in green/blue (to represent **energy & trust**).
+
+3. **Sections**
+   - **Hero Section:**  
+     - Company name (Horizon Infra & Energy).  
+     - Tagline (e.g., *“Powering a Sustainable Future”*).  
+     - Call-to-action button (e.g., *Contact Us* / *Get a Quote*).  
+
+   - **About Us:**  
+     - Brief intro about the company (renewable energy, infra solutions).  
+
+   - **Services:**  
+     - Solar panel installation & sales.  
+     - Infra & land/estate consultancy.  
+     - Energy solutions.  
+
+   - **Contact Section:**  
+     - Phone: **+91 7000608560**  
+     - Simple **contact form** (Name, Phone, Message).  
+
+   - **Footer:**  
+     - Company name.  
+     - Copyright © Horizon Infra & Energy, 2025.  
+
+4. **Tech Stack**
+   - **Next.js 14+ (App Router)**
+   - **Tailwind CSS** for styling
+   - Mobile-first approach
+   - SEO-friendly (meta tags, title, description)
+
+5. **Extra Features (optional)**
+   - Smooth scroll animations.  
+   - Call button on mobile (`tel:+917000608560`).  
+   - WhatsApp quick chat button (optional).  
+
+## Output
+- Deliver a **single landing page** (`app/page.tsx`) styled with **Tailwind**.  
+- Should be **production-ready** and easily deployable on Vercel.  
+
+---
